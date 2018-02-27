@@ -289,3 +289,4 @@ __pycache__/
 
 # Ignore These Files
 GitIgnoreTest/GitIgnoreTest/Hide.cs
+GitIgnoreTest/GitIgnoreTest/GoodBye.cs
