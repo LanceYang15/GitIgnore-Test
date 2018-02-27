@@ -8,16 +8,16 @@ namespace GitIgnoreTest
 {
     class Hidden
     {
-        //string name;
+        string name;
 
         public Hidden()
         {
-            //name = "Lance";
+            name = "Lance";
         }
 
         public void DisplayName()
         {
-            //Console.WriteLine("Hi my name is " + name);
+            Console.WriteLine("Hi my name is " + name);
         }
     }
 }
