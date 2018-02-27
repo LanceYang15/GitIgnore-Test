@@ -11,10 +11,10 @@ namespace GitIgnoreTest
         static void Main(string[] args)
         {
             Hello hello = new Hello();
-            Hidden hidden = new Hidden();
+            Hide hide = new Hide();
 
             hello.Greeting();
-            hidden.DisplayName();
+            hide.HideGreet();
             Console.ReadKey();
         }
     }
