@@ -8,5 +8,6 @@ namespace GitIgnoreTest
 {
     class GoodBye
     {
+        //This is a comment that should not appear in git hub! 
     }
 }
