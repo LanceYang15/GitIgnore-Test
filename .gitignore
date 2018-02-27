@@ -288,4 +288,4 @@ __pycache__/
 *.xsd.cs
 
 # Ignore These Files
-/Hide.cs
+GitIgnoreTest/GitIgnoreTest/Hide.cs
