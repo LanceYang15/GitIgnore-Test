@@ -1,1 +1,6 @@
 C:\Users\Lance\Documents\Software Development\1 Projects\003 TestingGitIgnore\Project\GitIgnoreTest\GitIgnoreTest\bin\Debug\GitIgnoreTest.exe.config
+C:\Users\Lance\Documents\Software Development\1 Projects\003 TestingGitIgnore\Project\GitIgnoreTest\GitIgnoreTest\bin\Debug\GitIgnoreTest.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\003 TestingGitIgnore\Project\GitIgnoreTest\GitIgnoreTest\bin\Debug\GitIgnoreTest.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\003 TestingGitIgnore\Project\GitIgnoreTest\GitIgnoreTest\obj\Debug\GitIgnoreTest.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Documents\Software Development\1 Projects\003 TestingGitIgnore\Project\GitIgnoreTest\GitIgnoreTest\obj\Debug\GitIgnoreTest.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\003 TestingGitIgnore\Project\GitIgnoreTest\GitIgnoreTest\obj\Debug\GitIgnoreTest.pdb

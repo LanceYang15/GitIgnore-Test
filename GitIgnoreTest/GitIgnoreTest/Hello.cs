@@ -8,5 +8,14 @@ namespace GitIgnoreTest
 {
     class Hello
     {
+        public Hello()
+        {
+
+        }
+
+        public void Greeting()
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
