@@ -1,0 +1,1 @@
+C:\Users\Lance\Documents\Software Development\1 Projects\003 TestingGitIgnore\Project\GitIgnoreTest\GitIgnoreTest\bin\Debug\GitIgnoreTest.exe.config
