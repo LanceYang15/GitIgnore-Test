@@ -3,7 +3,7 @@ Console application, figuring out how to use the .gitignore file. SUCCESSFULLY i
 
 IMPORTANT NOTE: Must add the ignore file first and push onto github before creating the file or class for the project.
 
-## Steps taken:
+## Steps taken: (Before you create the file you wish to ignore)
   * [1] open the git ignore file
   * [2] go to the bottom/end and add the header "# file(s) to ignore"
   * [3] below the header add the file name (including the pathway) in my case it was GitIgnoreTest/GitIgnoreTest/Hide.cs
